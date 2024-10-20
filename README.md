@@ -2,7 +2,7 @@
 A comprehensive collection of idioms used in the TV series *Better Call Saul*. This collection was generated using Google's *Gemini 1.5 Flash* LLM model. You can start browsing the collection [here](https://github.com/ym496/idiom-bcs/tree/master/Idioms).
 
 <div align="center">
-<img src="https://media1.tenor.com/m/zo9Pg1DFFrsAAAAd/saul-goodman.gif" alt="Better Call Saul" width="400" />
+<img src="https://media1.tenor.com/m/sdVS1Ot6uKYAAAAC/better-call-saul-jealous-eyedress.gif" alt="Better Call Saul" width="400" /> </centre>
 </div>
 
 # Running
