@@ -2,7 +2,7 @@
 A comprehensive collection of idioms used in the TV series *Better Call Saul*. This collection was generated using Google's *Gemini 1.5 Flash* LLM model. You can start browsing the collection [here](https://github.com/ym496/idiom-bcs/tree/master/Idioms).
 
 <div align="center">
-<img src="https://townsquare.media/site/442/files/2016/01/2_AW_BCS2d.jpg" alt="Better Call Saul" width="400" /> </centre>
+<img src="https://townsquare.media/site/442/files/2016/01/2_AW_BCS2d.jpg" alt="Better Call Saul" width="600" /> </centre>
 </div>
 
 # Running
