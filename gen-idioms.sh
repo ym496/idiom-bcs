@@ -1,6 +1,7 @@
 #!/bin/bash
 
 source ./.venv/bin/activate
+rm -rf Idioms
 mkdir Idioms Idioms/S{1..6}
 
 
