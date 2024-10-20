@@ -2,7 +2,7 @@
 A comprehensive collection of idioms used in the TV series *Better Call Saul*. This collection was generated using Google's *Gemini 1.5 Flash* LLM model. You can start browsing the collection [here](https://github.com/ym496/idiom-bcs/tree/master/Idioms).
 
 <div align="center">
-<img src="https://media1.tenor.com/m/zo9Pg1DFFrsAAAAd/saul-goodman.gif" alt="Better Call Saul" width="400" /> </centre>
+<img src="https://media1.tenor.com/m/zo9Pg1DFFrsAAAAd/saul-goodman.gif" alt="Better Call Saul" width="400" />
 </div>
 
 # Running
@@ -20,8 +20,8 @@ I've provided the scripts used to generate the files, allowing you to tweak the 
 
 * **Clone the repository:**
 ```bash
-git clone git@github.com:ym496/idiom-bcs.git
-cd idiom-bcs
+git clone git@github.com:ym496/idioms-bcs.git
+cd idioms-bcs
 ```
 * **Set up a virtual environment:**
 ```bash
