@@ -38,3 +38,22 @@ chmod +x gen-idioms.sh
 ./gen-idioms.sh
 ```
 Please wait for the script to finish running. You can open another terminal tab to browse the files being created in your `Idioms` directory.
+
+## Empty files
+
+The files for some episodes are empty because gemini keeps giving an error when I pass those. 
+
+You can check what files are empty by running:
+
+```bash
+find ./Idioms -name "*.md" -type f -empty
+```
+The latest output of this command was:
+
+```
+./Idioms/S6/S6ep03.md
+./Idioms/S6/S6ep13.md
+./Idioms/S6/S6ep08.md
+./Idioms/S1/S1ep06.md
+./Idioms/S1/S1ep08.md
+```
